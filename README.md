@@ -12,10 +12,10 @@ Official Home of the scripts that were previously packaged with the "Extended" c
 
 ## WARNING
 
-DO NOT USE PORTAINER, it is known to not work and typically breaks things... From the various discussions I've seen in the Arr communities and Linuxserver.io, they tend to trend on saying to avoid it... If your using portainer and this is not functioning as expected, that is likely your problem.... (Example: <https://github.com/RandomNinjaAtk/arr-scripts/discussions/57>)
+DO NOT USE PORTAINER, it is known to not work and typically breaks things... From the various discussions In the Arr communities and on Linuxserver.io, people generally advise to avoid it... If you're using portainer and this doesn't function as expected, the problem is most likely your installation.... (Example: <https://github.com/RandomNinjaAtk/arr-scripts/discussions/57>)
 
-Also see here: <https://wiki.servarr.com/docker-guide#portainer>
+Also see: <https://wiki.servarr.com/docker-guide#portainer>
 
 ## Support Info
 
-Scripts are provided as-is... Generally, if a script works one time, it will work everytime, that is the nature of scripts... So if you're experiencing an issue that has not been previously reported and is more likely a technical problem of some sort, it is more than likely caused by user error...
+Scripts are provided as-is... Generally, if a script works one time, it will work every time - that is the nature of scripts - so if you're experiencing an issue that has not been previously reported and is more likely a technical problem of some sort, it is more than likely caused by user error...
